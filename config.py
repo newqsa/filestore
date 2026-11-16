@@ -22,7 +22,7 @@ WORKERS = 5
 DB_URI = "mongodb"
 DB_NAME = "addafilez"
 
-FSUBS = [[-1003016571084, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = [[-1003297155836, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
 DB_CHANNEL =    # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
@@ -42,7 +42,7 @@ PROTECT = False
 MESSAGES = {
     "START": "<b>›› ʜᴇʏ!!, {first} ~ <blockquote>ನಮಸ್ತೆ..ನಮ್ಮ ಮೂವಿಗಳನ್ನ save ಮಾಡಿ ಇಟ್ಕೊಂಡಿರಿತಿನೇ.</blockquote></b>",
     "FSUB": "<b><blockquote>›› ʜᴇʏ ×</blockquote>\n  ʏᴏᴜʀ ғɪʟᴇ ɪs ʀᴇᴀᴅʏ ‼️ ನೀವು ಇನ್ನೂ ನಮ್ಮ ಚಾನೆಲ್‌ಗಳಿಗೆ ಸಬ್‌ಸ್ಕ್ರೈಬ್ ಮಾಡಿಲ್ಲ ಎಂದು ಕಾಣುತ್ತಿದೆ. ನಿಮ್ಮ ಫೈಲ್‌ಗಳನ್ನು ಪಡೆಯಲು ಈಗಲೇ ನಮ್ಮ ಚಾನೆಲ್‌ಗಳನ್ನು ಸಬ್‌ಸ್ಕ್ರೈಬ್ ಮಾಡಿ!</b>",
-    "ABOUT": "<b>›› ғᴏʀ ᴍᴏʀᴇ: @AddaFileZ\n <blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/AddaFileZ'>Cʟɪᴄᴋ ʜᴇʀᴇ</a> \n›› ᴏᴡɴᴇʀ: @Contact_AddaFileZ_bot \n›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @AddaFileZ</b></blockquote>",
+    "ABOUT": "<b>›› ғᴏʀ ᴍᴏʀᴇ: @AddaFileZ\n <blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/AddaFileZ'>Cʟɪᴄᴋ ʜᴇʀᴇ</a>\n›› ᴏᴡɴᴇʀ: @Contact_AddaFileZ_bot\n›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @AddaFileZ</b></blockquote>",
     "REPLY": "<b>For More Join - @AddaFileZ</b>",
     "SHORT_MSG": "<b>📊 ʜᴇʏ {first}, \n\n‼️ ɢᴇᴛ ᴀʟʟ ꜰɪʟᴇꜱ ɪɴ ᴀ ꜱɪɴɢʟᴇ ʟɪɴᴋ ‼️\n\n ⌯ ʏᴏᴜʀ ʟɪɴᴋ ɪꜱ ʀᴇᴀᴅʏ, ᴋɪɴᴅʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴏᴘᴇɴ ʟɪɴᴋ ʙᴜᴛᴛᴏɴ..</b>",
     "START_PHOTO": "https://graph.org/file/510affa3d4b6c911c12e3.jpg",
