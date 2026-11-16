@@ -45,10 +45,10 @@ MESSAGES = {
     "ABOUT": "<b>›› ғᴏʀ ᴍᴏʀᴇ: @AddaFileZ\n <blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/AddaFileZ'>Cʟɪᴄᴋ ʜᴇʀᴇ</a>\n›› ᴏᴡɴᴇʀ: @Contact_AddaFileZ_bot\n›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @AddaFileZ</b></blockquote>",
     "REPLY": "<b>For More Join - @AddaFileZ</b>",
     "SHORT_MSG": "<b>📊 ʜᴇʏ {first}, \n\n‼️ ɢᴇᴛ ᴀʟʟ ꜰɪʟᴇꜱ ɪɴ ᴀ ꜱɪɴɢʟᴇ ʟɪɴᴋ ‼️\n\n ⌯ ʏᴏᴜʀ ʟɪɴᴋ ɪꜱ ʀᴇᴀᴅʏ, ᴋɪɴᴅʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴏᴘᴇɴ ʟɪɴᴋ ʙᴜᴛᴛᴏɴ..</b>",
-    "START_PHOTO": "https://graph.org/file/510affa3d4b6c911c12e3.jpg",
-    "FSUB_PHOTO": "https://telegra.ph/file/7a16ef7abae23bd238c82-b8fbdcb05422d71974.jpg",
-    "SHORT_PIC": "https://telegra.ph/file/7a16ef7abae23bd238c82-b8fbdcb05422d71974.jpg",
-    "SHORT": "https://telegra.ph/file/8aaf4df8c138c6685dcee-05d3b183d4978ec347.jpg"
+    "START_PHOTO": "https://files.catbox.moe/h3azdq.jpg",
+    "FSUB_PHOTO": "https://files.catbox.moe/61lp19.jpg",
+    "SHORT_PIC": "https://files.catbox.moe/h3azdq.jpg",
+    "SHORT": "https://files.catbox.moe/61lp19.jpg"
 }
 
 def LOGGER(name: str, client_name: str) -> logging.Logger:
