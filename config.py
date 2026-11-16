@@ -13,10 +13,10 @@ SHORT_API = ""
 SHORT_TUT = ""
 
 # Bot Configuration
-SESSION = "yato"
-TOKEN = "642712"
-API_ID = ""
-API_HASH = ""
+SESSION = "addafilez"
+TOKEN = ""
+API_ID = "25194074"
+API_HASH = "269994a28b6db47d4afe4ea1f3028b33"
 WORKERS = 5
 
 DB_URI = "mongodb"
